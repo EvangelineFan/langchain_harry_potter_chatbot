@@ -19,4 +19,4 @@ venv/
 Thumbs.db
 
 # Project specific - remove this line if you want to include your PDF
-*.pdf
+chatbot_draft.py
