@@ -20,3 +20,4 @@ Thumbs.db
 
 # Project specific - remove this line if you want to include your PDF
 chatbot_draft.py
+chatbot_using_class.py
